@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm finorako</h1>
-<h3 align="center">Developer at 42 school Antananarivo</h3>
+<h3 align="center">Student at 42 school Antananarivo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=finorak&label=Profile%20views&color=0e75b6&style=flat" alt="finorak" /> </p>
 
